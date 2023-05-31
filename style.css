@@ -1,3 +1,20 @@
+html{
+    background-color: black;
+}
 .content{
-    align-items: center;
+    text-align: center;
+}
+#title{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px;
+    color: aliceblue;
+}
+#subtitle{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 30px;
+    color: aliceblue;
+}
+#img{
+    width:50%;
+    margin-left:25%;
 }
